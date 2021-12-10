@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Outlab9</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Study Planner</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_calendar">Calendar</string>
+    <string name="study_plan_tab_name">Study Plan</string>
+    <string name="assignments_tab_name">Assignments</string>
+    <string name="exam_tab_name">Exams</string>
+    <string name="lecture_tab_name">Lectures</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="select_a_date">Select a Date</string>
+    <string name="add">Add</string>
+    <string name="database_demo">Database demo</string>
+    <string name="study_plan_database_string">Add Study Plan</string>
+    <string name="assignments_database_string">Add Assignment</string>
+    <string name="exam_database_string">Add Exam</string>
+    <string name="lecture_database_string">Add Lecture</string>
+    <string name="string_database_demo">SQL Database</string>
+    <string name="save">Save</string>
+    <string name="load">Load</string>
+    <string name="hint1">Enter Title</string>
+    <string name="hint2">Enter Date. Format- 2021-11-04 </string>
+    <string name="hint3">Enter Time. Format- 21:45 </string>
+    <string name="hint4">Enter Course</string>
+    <string name="hint5">Enter Description</string>
+    <string name="image_desc">Add data</string>
+    <string name="time_text">21:45</string>
+    <string name="date_text">2021-11-05</string>
+    <string name="id_text">1</string>
+    <string name="title_text">Title1</string>
+    <string name="course_text">CS101</string>
+    <string name="description_text">Important exam</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+    <string name="string_cloud_message">No data</string>
+    <string name="string_no_data">No Events Added</string>
+    <string name="zero">0</string>
+
+
+</resources>
