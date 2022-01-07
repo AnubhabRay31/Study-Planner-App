@@ -5,10 +5,7 @@
 * [Technologies Used](#technologies-used)
 * [Features](#features)
 * [Screenshots](#screenshots)
-* [Setup](#setup)
-* [Project Status](#project-status)
 * [Room for Improvement](#room-for-improvement)
-* [Acknowledgements](#acknowledgements)
 * [Contact](#contact)
 
 
@@ -51,3 +48,27 @@
 
 ### Side Navigation Drawer
 - Student can use the side navigation drawer to switch between the aforementioned Home and Calendar screens
+
+## Screenshots
+### Home Screen:
+![Home Screen](./Screenshots/Home_StudyPlan.png)
+### Add Event:
+![Add Event](./Screenshots/AddEvent.png)
+### Edit Event:
+![Edit Event](./Screenshots/EditEvent.png)
+### Side Navigation Drawer:
+![Side Navigation Drawer](./Screenshots/SideNavigationDrawer.png)
+### Calendar:
+![Calendar](./Screenshots/Calendar.png)
+
+## Room for Improvement:
+### Marking:
+- A good feature to add will be the dates being marked, the ones on which there are events planned
+### Reminders:
+- Reminding the students about upcoming deadlines will be an useful feature to add
+
+## Contact:
+### Anubhab Ray
+- 200050010@iitb.ac.in
+### Mani Praneeth Chilukuri
+- 200050028@iitb.ac.in
